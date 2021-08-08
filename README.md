@@ -18,3 +18,4 @@ List of Courses and certificates
 | _Using Python to Access Web Data  | Coursera-UMich      |   Complete | [Certificate](https://github.com/MD32764/Certifications/blob/af96d26d19fbd4e9fa4c799eac12944563e97020/certificates/_Python3_Using%20Python%20to%20Access%20Web%20Data.pdf) |
 | _Using Databases with Python  | Coursera-UMich      |   Complete | [Certificate](https://github.com/MD32764/Certifications/blob/af96d26d19fbd4e9fa4c799eac12944563e97020/certificates/_Python4_Using%20Databases%20with%20Python.pdf) |
 | _Capstone Project  | Coursera-UMich      |   Complete | [Certificate](https://github.com/MD32764/Certifications/blob/af96d26d19fbd4e9fa4c799eac12944563e97020/certificates/_Python5_Capstone.pdf) |
+| C - Programming Fundamentals | Coursera-Duke      |   Complete | [Certificate](https://github.com/MD32764/Certifications/blob/8c28f3bb7127952bc543c96893c480879f9cf1e2/certificates/_C1_Programming%20Fundamentals.pdf) |
