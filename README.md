@@ -22,3 +22,4 @@ List of Courses and certificates
 | Writing, Running, and Fixing Code in C | Coursera-Duke | Complete | [AVBRUYM2GQFS](https://www.coursera.org/account/accomplishments/certificate/AVBRUYM2GQFS) |
 | Pointers, Arrays, and Recursion | Coursera-Duke | Complete | [EAZJA5NPW4AE](https://www.coursera.org/account/accomplishments/certificate/EAZJA5NPW4AE) |
 | System Engineering Certification Program | Caltech | Complete | [NA](NA) |
+| Functional Safety Engineer :FSCP Level - 1 | TUV SUD | Complete | [4209#36607](https://www.tuvsud.com/en-in/resource/certificate-finder/functional-safety-certified-persons) |
