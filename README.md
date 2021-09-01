@@ -2,7 +2,7 @@
 List of Courses and certificates
 
 | Course                         | Instructor               | Status  | Verify Credentials  |
-| ------------------------------ |:------------------------:| -------:| ------------:|
+| :------------------------------ |:------------------------:| :-------:| :------------:|
 | CSPO Certified Scrum Product Owner (expires 07/2023) | Scrum Alliance | Complete | [svpmuzbkg](https://bcert.me/svpmuzbkg) |
 | Google Project Management Certification (GPMC) | Coursera-Google | In-progress | []() |
 | Foundations of Project Management | Coursera-Google | Complete | [RJ7DYF8UUCWD](https://www.coursera.org/account/accomplishments/certificate/RJ7DYF8UUCWD) |
@@ -22,3 +22,4 @@ List of Courses and certificates
 | Writing, Running, and Fixing Code in C | Coursera-Duke | Complete | [AVBRUYM2GQFS](https://www.coursera.org/account/accomplishments/certificate/AVBRUYM2GQFS) |
 | Pointers, Arrays, and Recursion | Coursera-Duke | Complete | [EAZJA5NPW4AE](https://www.coursera.org/account/accomplishments/certificate/EAZJA5NPW4AE) |
 | System Engineering Certification Program | Caltech | Complete | [NA](NA) |
+| New Certification | Caltech | Complete | [NA](NA) |
