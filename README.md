@@ -22,7 +22,3 @@ List of Courses and certificates
 | Writing, Running, and Fixing Code in C | Coursera-Duke | Complete | [AVBRUYM2GQFS](https://www.coursera.org/account/accomplishments/certificate/AVBRUYM2GQFS) |
 | Pointers, Arrays, and Recursion | Coursera-Duke | Complete | [EAZJA5NPW4AE](https://www.coursera.org/account/accomplishments/certificate/EAZJA5NPW4AE) |
 | System Engineering Certification Program | Caltech | Complete | [NA](NA) |
-<<<<<<< HEAD
-| New Certification | Caltech | Complete | [NA](NA) |
-=======
->>>>>>> 286d97001f6d763b2977662bf273ebf5047e6f68
