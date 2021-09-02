@@ -1,5 +1,6 @@
 # Certifications
-List of Courses and certificates
+> List of Courses and Certificates
+
 
 | Course                         | Instructor               | Status  | Verify Credentials  |
 | :------------------------------ |:------------------------:| :-------:| :------------:|
