@@ -3,7 +3,7 @@
 
 
 | Course                         | Instructor               | Status  | Verify Credentials  |
-| :------------------------------ |:------------------------:| :-------:| :------------:|
+| :------------------------------ |:------------------------:| :-------:| :----------:|
 | CSPO Certified Scrum Product Owner (expires 07/2023) | Scrum Alliance | Complete | [svpmuzbkg](https://bcert.me/svpmuzbkg) |
 | Google Project Management Certification (GPMC) | Google | Complete | [GAT6J9UTD8MQ](https://www.credly.com/badges/dcf96851-1300-4b3c-83de-240b0545742c) |
 | Foundations of Project Management | Coursera-Google | Complete | [RJ7DYF8UUCWD](https://www.coursera.org/account/accomplishments/certificate/RJ7DYF8UUCWD) |
