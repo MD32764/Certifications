@@ -5,13 +5,13 @@
 | Course                         | Instructor               | Status  | Verify Credentials  |
 | :------------------------------ |:------------------------:| :-------:| :------------:|
 | CSPO Certified Scrum Product Owner (expires 07/2023) | Scrum Alliance | Complete | [svpmuzbkg](https://bcert.me/svpmuzbkg) |
-| Google Project Management Certification (GPMC) | Coursera-Google | In-progress | []() |
+| Google Project Management Certification (GPMC) | Google | Complete | [GAT6J9UTD8MQ](https://www.credly.com/badges/dcf96851-1300-4b3c-83de-240b0545742c) |
 | Foundations of Project Management | Coursera-Google | Complete | [RJ7DYF8UUCWD](https://www.coursera.org/account/accomplishments/certificate/RJ7DYF8UUCWD) |
 | Project Initiation - Starting a Successful Project | Coursera-Google | Complete | [VSLBH6V8YS8Y](https://www.coursera.org/account/accomplishments/certificate/VSLBH6V8YS8Y) |
 | Project Planning- Putting it all together | Coursera-Google | Complete | [2G85RWNHFSRE](https://www.coursera.org/account/accomplishments/certificate/2G85RWNHFSRE) |
 | Project Execution - Running the project | Coursera-Google | Complete | [6FCHEYJTSHMY](https://www.coursera.org/account/accomplishments/certificate/6FCHEYJTSHMY) |
 | Agile Management | Coursera-Google | Complete | [KGH3LBEN2R2Y](https://www.coursera.org/account/accomplishments/certificate/KGH3LBEN2R2Y) |
-| Project_Management - Capstone | Coursera-Google | In-progress | []() |
+| Project_Management - Capstone | Coursera-Google | Complete | [EM59L5Q4Q22R](https://www.coursera.org/account/accomplishments/certificate/EM59L5Q4Q22R) |
 | Intro to Git & Github | Coursera-Google | Complete | [3WUPM6CKF8AR](https://www.coursera.org/account/accomplishments/certificate/3WUPM6CKF8AR) |
 | Specialization - Python for Everybody | Coursera-UMich | Complete | [BXABDUQKK4QQ](https://www.coursera.org/account/accomplishments/specialization/certificate/BXABDUQKK4QQ) |
 | Programming for Everybody (Getting Started with Python) | Coursera-UMich | Complete | [C9ZMULKX5DR6](https://www.coursera.org/account/accomplishments/certificate/C9ZMULKX5DR6) |
