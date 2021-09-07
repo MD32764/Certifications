@@ -1,6 +1,7 @@
 ## Certifications
-> List of Courses and Certificates
-> >Click on the hyperlinks to verify the credentials. Offline pdfs of the certificates can also be viewed in the "certificates_pdf" folder.
+>**List of Courses and Certificates**
+
+>Click on the hyperlinks to verify the credentials. Offline pdfs of the certificates can also be viewed in the "certificates_pdf" folder.
 
 
 | Course                        | Instructor               | Status  | Verify Credentials  |
