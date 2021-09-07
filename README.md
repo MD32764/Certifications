@@ -23,8 +23,8 @@
 || _Using Databases with Python_ | Coursera-UMich | Complete | [5EEFB7QEYE34](https://www.coursera.org/account/accomplishments/certificate/5EEFB7QEYE34) |
 || _Python - Capstone Project_ | Coursera-UMich | Complete | [2SYYTTTUMA3C](https://www.coursera.org/account/accomplishments/certificate/2SYYTTTUMA3C) |
 |5| **C - Programming Fundamentals** | Coursera-Duke | Complete | [SSKMMQWNYZWA](https://www.coursera.org/account/accomplishments/certificate/SSKMMQWNYZWA) |
-|| Writing, Running, and Fixing Code in C** | Coursera-Duke | Complete | [AVBRUYM2GQFS](https://www.coursera.org/account/accomplishments/certificate/AVBRUYM2GQFS) |
-|| Pointers, Arrays, and Recursion** | Coursera-Duke | Complete | [EAZJA5NPW4AE](https://www.coursera.org/account/accomplishments/certificate/EAZJA5NPW4AE) |
+|| Writing, Running, and Fixing Code in C | Coursera-Duke | Complete | [AVBRUYM2GQFS](https://www.coursera.org/account/accomplishments/certificate/AVBRUYM2GQFS) |
+|| Pointers, Arrays, and Recursion | Coursera-Duke | Complete | [EAZJA5NPW4AE](https://www.coursera.org/account/accomplishments/certificate/EAZJA5NPW4AE) |
 |6| **System Engineering Certification Program** | Caltech | Complete | [NA](NA) |
 |7| **Functional Safety Engineer :FSCP Level - 1** | TUV SUD | Complete | [4209#36607](https://www.tuvsud.com/en-in/resource/certificate-finder/functional-safety-certified-persons) 
 |8| **Digital Transformation** | Coursera-BCG/UVirginia | Complete | [F4CG6R8LBAUA](https://www.coursera.org/account/accomplishments/certificate/F4CG6R8LBAUA) |
