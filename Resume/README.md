@@ -6,7 +6,7 @@
 
 Pune, India | (+91) 8007269680 | mohit306@gmail.com | [Linkedin.com/in/mohit306/](https://www.linkedin.com/in/mohit306/)  
 ## Summary	
-Extensive background and experience of 10+ years in rugged embedded electronic design and management. Result-driven individual acting strategically with an eye for detail in a cross-functional environment. Consistently delivering sustainable solutions in alignment with business objectives of improving productivity, quality, and cost.					
+Extensive background and experience of 10+ years in rugged `embedded electronic design` and `management`. Result-driven individual acting strategically with an eye for detail in a `cross-functional` environment. Consistently delivering sustainable solutions in alignment with business objectives of improving `productivity`, `quality`, and `cost`.					
 
 `Hardware Design` `Project/People Management` `Cross-Function Co-Design`
 
