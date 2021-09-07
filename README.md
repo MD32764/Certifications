@@ -1,7 +1,9 @@
 ## Certifications
 >**List of Courses and Certificates**
 
->Click on the hyperlinks in the table to verify the credentials. Offline pdfs of the certificates can also be viewed in the [certificates_pdf](https://github.com/MD32764/Certifications/tree/main/certificates_pdf) folder.
+>Click on the hyperlinks in the table to verify the credentials.\
+>Offline pdfs of the certificates can also be viewed in the [certificates_pdf](https://github.com/MD32764/Certifications/tree/main/certificates_pdf) folder.  
+>[link](https://github.com/MD32764/Certifications/tree/main/certificates_pdf){:target="_blank"}
 
 
 | Course                        | Instructor               | Status  | Verify Credentials  |
