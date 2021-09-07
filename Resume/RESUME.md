@@ -19,45 +19,45 @@ Electronics and Communication Engineering, Degree: Honors
 
 ## Skills & Abilities
 `Hardware Design`  						
->Circuit Design & Simulation, Schematic Design & PCB Review  
->Worst Case Analysis, FMEA, EMI/EMC & Transient Analysis  
->Product Lifecycle Management, Bill of Material, Testing & Troubleshooting, Root Cause Analysis  
->Product Design and Prototyping, System Engineering, PV&V  
->Design For Excellence (DFM/DFT/DFC)   
+>- Circuit Design & Simulation, Schematic Design & PCB Review  
+>- Worst Case Analysis, FMEA, EMI/EMC & Transient Analysis  
+>- Product Lifecycle Management, Bill of Material, Testing & Troubleshooting, Root Cause Analysis  
+>- Product Design and Prototyping, System Engineering, PV&V  
+>- Design For Excellence (DFM/DFT/DFC)   
 
-`Project Management`  							
->People and Project Planning, Work Breakdown Structure using Rally  
->Risk Management, Change Request Management, Vendor Management  
->Stakeholder and Global Team Collaboration  
->Budget Planning and Tracking   
+`Project/People Management`  							
+>- People and Project Planning, Work Breakdown Structure using Rally  
+>- Risk Management, Change Request Management, Vendor Management  
+>- Stakeholder and Global Team Collaboration  
+>- Budget Planning and Tracking   
 
-`Cross-Functional Design`   						
->Supervising Base Software Development utilizing MCAL and Low-Level Device Drivers  
->Cross-functional design reviews (Mechanical, Manufacturing, Software, Test, System)  
->Working with EMS/ECM/OEM  
->Automation and Scripting, Hardware Software Interface  
+`Cross-Functional Co-Design`   						
+>- Supervising Base Software Development utilizing MCAL and Low-Level Device Drivers  
+>- Cross-functional design reviews (Mechanical, Manufacturing, Software, Test, System)  
+>- Working with EMS/ECM/OEM  
+>- Automation and Scripting, Hardware Software Interface  
 ## Experience
->**John Deere** | Jan 2011 - Present  
->* **Technical Manager** | Pune | Feb 2021 - Present  
->    - Managing Agile Teams of 15+ engineers for development of embedded middleware
->    - Added Hardware Design lead responsibility, Enabling Hardware Software Co-design
+`John Deere` | Jan 2011 - Present  
+>**Technical Manager** | Pune | Feb 2021 - Present  
+>- Managing Agile Teams of 15+ engineers for development of embedded middleware,  
+>- Added Hardware Design lead responsibility, Enabling Hardware Software Co-design  
 >
->* **Senior Lead Engineer** | Pune | Jun 2017– Feb 2021  
->    - Lead multiple Hardware Design projects for Body Controllers (BCM), Telematics (BLE), Instrument Clusters and Engine Controllers (ECU) operating on 8-/16-/32-bit Microcontrollers
->    - Develop Business Case, proposals and plans, budget estimations, lead turn-key product development
->    - Peer Review Design  
+> **Senior Lead Engineer** | Pune | Jun 2017– Feb 2021  
+>- Lead multiple Hardware Design projects for Body Controllers (BCM), Telematics (BLE), Instrument Clusters and Engine Controllers (ECU) operating on 8-/16-/32-bit Microcontrollers,  
+>- Develop Business Case, proposals and plans, budget estimations, lead turn-key product development,  
+>- Peer Review Design  
 >
->* **Lead Engineer** | Pune | May 2014–May 2017  
->    - Requirement gathering, schematic design and analysis, PCB Layout review, design verification, testing and troubleshooting, Design for Manufacturing (DFM)/Design for Testability (DFT)
->    - Bill of Material (BOM), Engineering Change Order (ECO), working with suppliers and stakeholders  
+> **Lead Engineer** | Pune | May 2014–May 2017  
+>- Requirement gathering, schematic design and analysis, PCB Layout review, design verification, testing and troubleshooting, Design for Manufacturing (DFM)/Design for Testability (DFT),  
+>- Bill of Material (BOM), Engineering Change Order (ECO), working with suppliers and stakeholders  
 >
->* **Senior Engineer** | Pune | Sept 2012– May 2014  
->    - Design Engineer for various electronic design projects
->    - Designed circuits like DC/DC converters, Low power electronics, Microcontrollers, LCD, LED Drivers, System Basis Chips (SBC), CAN, etc. for Automotive environment (transients and EMI/EMC)  
+> **Senior Engineer** | Pune | Sept 2012– May 2014  
+>- Design Engineer for various electronic design projects,  
+>- Designed circuits like DC/DC converters, Low power electronics, Microcontrollers, LCD, LED Drivers, System Basis Chips (SBC), CAN, etc. for Automotive environment (transients and EMI/EMC)  
 >
->* **Post Graduate Engineering Trainee**| Pune | Sep 2011– Sep 2012  
+> **Post Graduate Engineering Trainee**| Pune | Sep 2011– Sep 2012  
 > 
->* **Engineering Intern** | Fargo | Jan 2011– Aug 2011
+> **Engineering Intern** | Fargo | Jan 2011– Aug 2011
 
 ## Tools & Certification
 ### Tools
