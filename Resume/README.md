@@ -1,8 +1,10 @@
 > ## Resume
 # Mohit Dhawan  
-![Branching Concepts](https://media-exp1.licdn.com/dms/image/C5603AQGt9H6zPKaxaQ/profile-displayphoto-shrink_800_800/0/1601063150241?e=1636588800&v=beta&t=HI2tZ1R_wGGrFLwk-F2__M929gDoJzTSQuJJ3XJb7Ac)  
-Pune, India | (+91) 8007269680 | mohit306@gmail.com | Linkedin.com/in/mohit306/   
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQGt9H6zPKaxaQ/profile-displayphoto-shrink_800_800/0/1601063150241?e=1636588800&v=beta&t=HI2tZ1R_wGGrFLwk-F2__M929gDoJzTSQuJJ3XJb7Ac" width="200">  
 
+
+
+Pune, India | (+91) 8007269680 | mohit306@gmail.com | [Linkedin.com/in/mohit306/](https://www.linkedin.com/in/mohit306/)  
 ## Summary	
 Extensive background and experience of 10+ years in rugged embedded electronic design and management. Result-driven individual acting strategically with an eye for detail in a cross-functional environment. Consistently delivering sustainable solutions in alignment with business objectives of improving productivity, quality, and cost.					
 
@@ -60,15 +62,16 @@ Electronics and Communication Engineering, Degree: Honors
 ## Tools & Certification
 ### Tools
 `Hardware Design` - Mentor Graphics DxDesigner, LTSpice, OrCAD PSpice, PTC Mathcad  
-`Software Design` - MS Visual Studio, PyCharm, Code Collaborator, Version Control – Github/Fork,   Language fundamentals of Python 3, VBA, VB.net and C  
+`Software Design` - MS Visual Studio, PyCharm, Code Collaborator, Version Control – Github/Fork,   
+Language fundamentals of Python 3, VBA, VB.net and C  
 `Project Management` - CA Agile Central (Rally), AgilePLM, MS Teams, PowerBI, MS-Office  
 ### Certifications
 * Google Project Management Certification - Sept 2021
 * Certified Scrum Product Owner (CSPO) – July 2021
 * Automotive Functional Safety Certification Program (FSCP) Level 1, ISO26262, TUV SUD – Aug 2020
 * System Engineering Certification Program, Caltech – Nov 2017
-* Python for Everybody Specialization (5 courses), University of Michigan-Coursera – May 2021
-* Click here to view all my certifications on Github
+* Python for Everybody Specialization (5 courses), University of Michigan-Coursera – May 2021  
+[Click here to view all my certifications on Github](https://github.com/MD32764/Certifications)  
 ## Recognition
 * 1 US patent filed in 2019
 * 2016 Enterprise Collaboration Award & Senior Vice President Award, John Deere, Moline, USA
@@ -79,5 +82,4 @@ Electronics and Communication Engineering, Degree: Honors
 
 
 
->Resume on Google Doc
-https://docs.google.com/document/d/1TBARSunPrxtMwWQn0YZHhQ6zKElc5JQjHV-0UlFCqmw/edit?usp=sharing
+[Resume on Google Doc](https://docs.google.com/document/d/1TBARSunPrxtMwWQn0YZHhQ6zKElc5JQjHV-0UlFCqmw/edit?usp=sharing)
