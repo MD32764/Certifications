@@ -7,7 +7,7 @@
 
 |S.No.| Course                         | Instructor         | Status   | Verify Credentials   |
 |:-:| :------------------------------- |:------------------:| :---------:| :------------:|
-|1| **CSPO Certified Scrum Product Owner** (expires 07/2023) | Scrum Alliance  | Complete | [svpmuzbkg](https://bcert.me/svpmuzbkg)|
+|1| **CSPO Certified Scrum Product Owner** (expires 07/2023) | Scrum Alliance  | Complete | [SVPMUZBKG](https://bcert.me/svpmuzbkg)|
 |2| **Google Project Management Certification (GPMC)** | Google | Complete | [GAT6J9UTD8MQ](https://www.credly.com/badges/dcf96851-1300-4b3c-83de-240b0545742c) |
 || _Foundations of Project Management_ | Coursera-Google | Complete | [RJ7DYF8UUCWD](https://www.coursera.org/account/accomplishments/certificate/RJ7DYF8UUCWD) |
 || _Project Initiation - Starting a Successful Project_ | Coursera-Google | Complete | [VSLBH6V8YS8Y](https://www.coursera.org/account/accomplishments/certificate/VSLBH6V8YS8Y) |
